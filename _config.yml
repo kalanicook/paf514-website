@@ -15,6 +15,9 @@ author: Kalani Cook
 description: Welcome to my little corner of the internet! This site is part of homework assignment, but I am glad you're here all the same! 
 # --- List of links in the navigation bar --- #
 
+#Define Site URL
+url: https://kalanicook.github.io/
+
 navbar-links:
   About Me: "aboutme"
   Resources:
