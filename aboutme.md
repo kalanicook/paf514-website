@@ -14,4 +14,4 @@ I’m pursuing my Master’s in Program Evaluation and Data Analytics at Arizona
 I currently work in Customer Onboarding and love creating solutions that make an impact. Whether it’s helping businesses, optimizing processes, or designing better user experiences, I’m always up for a challenge.
 
 🔗 **Want to connect?**  
-[LinkedIn]([https://www.linkedin.com/in/kalani-cook/]) | [GitHub](https://github.com/kalanicook)
+[LinkedIn](https://www.linkedin.com/in/kalani-cook/) | [GitHub](https://github.com/kalanicook)
