@@ -20,12 +20,12 @@ url: https://kalanicook.github.io/
 
 navbar-links:
   About Me: "aboutme"
-  CV: "cv"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"                         
-  Table Demo: "table-demo"              
+  CV: "https://kalanicook.github.io/kalani_cook_cv/"
+  # Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  #  - Getting Started: "getstarted"                         
+  # Table Demo: "table-demo"              
 
  
  
