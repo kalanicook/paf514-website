@@ -20,6 +20,7 @@ url: https://kalanicook.github.io/
 
 navbar-links:
   About Me: "aboutme"
+  CV: "cv"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
