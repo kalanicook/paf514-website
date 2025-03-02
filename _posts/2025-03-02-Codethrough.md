@@ -5,11 +5,6 @@ date: 2025-03-01
 categories: [R, regex, data analytics]
 ---
 
-RegEx CodeThrough
-================
-Kalani Cook
-02 March 2025
-
 ## Introduction
 
 This code through will explore additional use cases of regular
