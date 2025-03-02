@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Regex Code-Through in R"
+date: 2025-03-01
+categories: [R, regex, data analytics]
+---
+
 RegEx CodeThrough
 ================
 Kalani Cook
