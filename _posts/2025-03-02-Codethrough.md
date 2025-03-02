@@ -5,23 +5,25 @@ date: 2025-03-01
 categories: [R, regex, data analytics]
 ---
 
+Regular expressions (Regex) are a powerful tool for text manipulation and data cleaning, which are essential data analytics skills. In this code-through, we’ll dive into practical applications of Regex in R using real-world product review data.
+
 ## Introduction
 
-This code through will explore additional use cases of regular
+This code-through will explore additional use cases of regular
 expressions within R by using the Amazon Fine Food Reviews dataset from
 Kaggle.
 
 You can find the direct link here: [Kaggle
 Dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data)
 
-For a brief description of this dataset - it contains reviews of fine
-foods from Amazon. The dataset contains information on product/user
+For a brief description of this dataset, it contains reviews of fine
+foods from Amazon. The dataset contains product/user
 information, ratings, and reviews.
 
 ## Learning Objectives
 
 Our goal for this CodeThrough is to filter the reviews to answer a
-couple of business questions and also clean the datasets.
+couple of business questions, and also clean the datasets.
 
 *Step 1: Load Amazon Review Dataset*
 
